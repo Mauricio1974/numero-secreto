@@ -9,3 +9,8 @@
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
+<<<<<<< HEAD
+=======
+
+// Código omitido. 
+>>>>>>> 424251d7b458bb9aac91e9a760cb349b7ad3c55f
